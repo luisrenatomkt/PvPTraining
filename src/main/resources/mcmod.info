@@ -1,0 +1,8 @@
+[{
+  "modid": "pvptraining",
+  "name": "PvP Training",
+  "description": "Centro de treinamento de Soup PvP com bots (1.8.9).",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "authorList": ["PvPTraining"]
+}]
